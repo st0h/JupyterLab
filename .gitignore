@@ -1,0 +1,13 @@
+# Ignore files/folders created by virtualenv
+bin/
+lib/
+etc/
+share/
+pyvenv.cfg
+
+# Ignore Jupyter Lab checkpoint files/folders
+.ipynb_checkpoints/
+
+# Ignore files created automatically by VIM
+*.un~
+*.swp
